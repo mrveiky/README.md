@@ -11,8 +11,8 @@ I like minecraft
 
 <p>
   <img src="https://media.discordapp.net/attachments/738419713255931987/846505423669428227/20210525_004954.gif" width="32" /> <br />
-  <b>Discord</b>: The Evil#7054 <br />
+  <b>Discord</b>: The Evil#7054 <br/>
   <img src="https://icongr.am/fontawesome/envelope-o.svg?size=32&color=2198c0" width="32" /> <br />
-  <b>Mail</b>: 
+  <b>Mail</b>: Selin******@gmail.com<br/>
 </p>
 
