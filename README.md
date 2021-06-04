@@ -8,8 +8,8 @@
 i like GTAV
 
 <div class="topnav">
-  <a href="#home" class="active">Home</a> -
-  <a href="#news">News</a> -
+  <a href="https://github.com/Selinvictor" class="active">Home</a> -
+  <a href="https://discord.gg/DbGJtmg8jx">Discord</a> -
   <a href="#contact">Contact</a>
 </div>
 
