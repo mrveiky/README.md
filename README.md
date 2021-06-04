@@ -14,7 +14,7 @@ i like GTAV
 </div>
 
 
-<script src="https://hxfb1jmpvgtr.statuspage.io/embed/script.js"></script>
+
 
 ### Contact
 
