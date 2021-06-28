@@ -10,7 +10,7 @@ i like GTAV
 <div class="topnav">
   <a href="https://github.com/Selinvictor" class="active">Home</a> -
   <a href="https://discord.gg/DbGJtmg8jx">Discord</a> -
-  <a href="https://virusbot.ml">⚡WEBSITE⚡</a>
+  <a href="www.virusbot.ml">⚡WEBSITE⚡</a>
 </div>
 
 
